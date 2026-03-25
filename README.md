@@ -1,4 +1,4 @@
-# Wise Card Program Analysis
+#Card Program Analysis
 
 ## Overview
 This project analyzes transaction-level data from a card program to understand profitability, customer lifetime value (LTV), and market performance.
