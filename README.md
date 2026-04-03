@@ -1,7 +1,9 @@
-#Card Program Analysis
+Card Program Analysis
 
 ## Overview
 This project analyzes transaction-level data from a card program to understand profitability, customer lifetime value (LTV), and market performance.
+
+Built as part of a fintech internship case study for Wise
 
 The goal is to identify key drivers of revenue and cost, evaluate unit economics across transaction types, and recommend strategies to improve profitability.
 
